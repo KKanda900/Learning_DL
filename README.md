@@ -5,3 +5,4 @@ This repository contains implementations of different tasks used in deep learnin
 ## Table of Contents
 
 1. **[Multilayer Perceptrons](src/multilayer_perceptrons.ipynb)**
+2. **[Polynomial Regression](src/poly_reg.ipynb)**
