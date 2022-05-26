@@ -1,7 +1,6 @@
 # Learning Deep Learning
 
-Here is my repository for my progress in learning Deep Learning. 
+## Table of Contents
 
-Current Subject: Multilayer Perceptrons
-
-![4/17](https://progress-bar.dev/50)
+1. **Multilayer Perceptrons**
+    - [mlp](src/multilayer_perceptrons.ipynb)
