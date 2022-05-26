@@ -2,5 +2,4 @@
 
 ## Table of Contents
 
-1. **Multilayer Perceptrons**
-    - [mlp](src/mlp.ipynb)
+1. **[Multilayer Perceptrons](src/multilayer_perceptrons.ipynb)**
